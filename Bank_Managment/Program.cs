@@ -21,7 +21,7 @@ namespace Bank_Management
             int choice;
             do
             {
-                Console.Clear();
+            
                 Console.WriteLine(" *Bank Management System*");
                 Console.WriteLine("1. Create Account");
                 Console.WriteLine("2. View Accounts");
